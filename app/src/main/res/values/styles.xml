@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonBlueStyle">
+        <item name="android:background">@color/buttonBlue</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/background</item>
+        <item name="hintTextColor">@color/secondaryText</item>
+    </style>
+
+    <style name="Theme.AuthLoginApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/buttonBackground</item>
+        <item name="colorPrimaryVariant">@color/buttonBackground</item>
+        <item name="colorOnPrimary">@color/buttonText</item>
+        <item name="colorSecondary">@color/linkText</item>
+        <item name="android:statusBarColor">@color/buttonBackground</item>
+    </style>
+
+</resources>

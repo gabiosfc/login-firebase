@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="login">Login</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="sign_up_text">Não possui uma conta? Cadastre-se</string>
+    <string name="welcome">Bem vindo!</string>
+</resources>
